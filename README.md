@@ -1,38 +1,47 @@
-#### 1.小组成员
+#### 1.Noms et e-mails des membres du groupe
+
+​	Loic 1191024056	1025652296@qq.com
+
+​	Hugo 1191024049 1098437116@qq.com
+
+​	Michael 1191024052  2281501187@qq.com
+
+#### 2.Introduction
+
+​	Créez un service qui enregistre et fournit des informations sur les événements à venir, soit par région, soit par artiste.
 
 
 
+#### 3.Descriptif des Services
 
+1.Utiliser les frameworks JAX-WS et JAX-RS，environnement de fonctionnement JDK1.8
 
-#### 2.项目简介
+2.Offre de services
 
-创建一个服务，按地区或艺术家记录和提供即将发生的事件的信息。
+-  créer des événements et des artistes
 
-#### 3.服务端描述
+-  Obtenir des événements et des artistes.
 
-1.使用JAX-WS和JAX-RS框架，运行环境JDK1.8
+-  Obtenir la liste des événements d’artistes
 
-2.提供服务
+   ​
 
--  新增艺术家事件
--  获取艺术家事件
--  获取艺术家事件列表
--  去除艺术家事件
-
-3.目录为 /java-rs , /java-ws
+3.Le catalogue est   /java-rs , /java-ws
 
 ![](.\img\1669255667618.png)
 
-#### 4.客户端描述
+#### 4.Description des Clients
 
-1.使用Jsp和JTomcat8.5，运行环境JDK1.8
+1.Utiliser Jsp et JTomcat8.5，environnement de fonctionnement JDK1.8
 
-2.调用客户端服务
+2.Appel au client
 
-3.调用spotifyApi获取艺术家信息
+3.Appel spotifyApi, Obtenir des informations sur l’artiste
 
 ![](.\img\1669254858780.jpg)
 
-#### 运行结果
+
+
+#### 5.Résultats des opérations
 
 ![](.\img\1669256224319.jpg)

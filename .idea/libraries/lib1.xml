@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/FastInoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/woodstox-core-asl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/saaj-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/axis-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/axis-jaxrpc-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/management-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/gmbal-api-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/mimepull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/ha-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/stax2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-ws/lib/saaj-impl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

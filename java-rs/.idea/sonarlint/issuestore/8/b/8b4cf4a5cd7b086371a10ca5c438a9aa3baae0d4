@@ -1,0 +1,9 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€½öÊúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›©½²úÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¦À úÿÿÿÿ
+Q
+java:S11174"6Rename "id" which hides the field declared at line 15.(ÑöÎéùÿÿÿÿ
+L
+java:S2696@"6Make the enclosing method "static" or remove this set.(´´¼¯
